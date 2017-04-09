@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../CodeWars/.idea/CodeWars.iml" filepath="$PROJECT_DIR$/../../CodeWars/.idea/CodeWars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/classic_characters.iml" filepath="$PROJECT_DIR$/.idea/classic_characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../systems_and_worlds/.idea/systems_and_worlds.iml" filepath="$PROJECT_DIR$/../systems_and_worlds/.idea/systems_and_worlds.iml" />
+    </modules>
+  </component>
+</project>
