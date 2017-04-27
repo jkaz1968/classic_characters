@@ -189,6 +189,7 @@ def career_steps(name, upp, age, terms, career, rank):
         print("UPP: ", upp)
         sorted_skills = dict((i, skills_learned.count(i)) for i in skills_learned)
         print_current_skills(sorted_skills)
+        upp = aging(terms, upp)
         reup = input("Re-enlist for another term? (Y/N) ")[0].upper()
         if reup == 'Y':
             if reenlist(re_up):
@@ -353,3 +354,37 @@ def print_character(name, terms, age, rank, upp, sorted_skills, sorted_muster, c
         f = open(filename + ".txt", "w")
         f.write(character_sheet)
         print("Character written to {}.txt".format(name))
+
+
+def aging(terms, upp):
+    print("Aging step - {} terms served.".format(terms))
+    if terms < 4:
+        print("No effects due to aging.")
+        print_upp(upp)
+        return upp
+    print("Checking for aging effects.")
+    if 4 <= terms <= 7:
+        if roll_two_dice() < 8:
+            upp[0] -= 1
+        if roll_two_dice() < 7:
+            upp[1] -= 1
+        if roll_two_dice() < 8:
+            upp[2] -= 1
+    if 7 < terms <= 11:
+        if roll_two_dice() < 9:
+            upp[0] -= 1
+        if roll_two_dice() < 8:
+            upp[1] -= 1
+        if roll_two_dice() < 9:
+            upp[2] -= 1
+    if terms >= 12:
+        if roll_two_dice() < 9:
+            upp[0] -= 2
+        if roll_two_dice() < 9:
+            upp[1] -= 2
+        if roll_two_dice() < 9:
+            upp[2] -= 2
+        if roll_two_dice() < 9:
+            upp[3] -= 1
+    print("Your updated UPP:" + print_upp(upp))
+    return upp
