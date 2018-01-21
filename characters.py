@@ -103,8 +103,7 @@ def start(name, upp):
 def main():
     intro()
     name = get_input("What is your name? ")
-    # upp = gen_upp()
-    upp = [10, 10, 10, 10, 10, 10]
+    upp = gen_upp()
     print("\nName: {}\nUPP: Str-{} Dex-{} End-{} Int-{} Edu-{} Soc-{}".
           format(name, upp[0], upp[1], upp[2], upp[3], upp[4], upp[5]))
     start(name, upp)
