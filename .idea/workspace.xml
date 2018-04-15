@@ -26,7 +26,7 @@
       <file leaf-file-name="career_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/career_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1768">
+            <state relative-caret-position="1786">
               <caret line="199" column="6" lean-forward="false" selection-start-line="199" selection-start-column="6" selection-end-line="199" selection-end-column="6" />
               <folding>
                 <element signature="e#2899#3231#0" expanded="false" />
@@ -41,12 +41,10 @@
                 <element signature="e#6268#6575#0" expanded="false" />
                 <element signature="e#6605#6938#0" expanded="false" />
                 <element signature="e#6972#7307#0" expanded="false" />
-                <element signature="e#7342#7662#0" expanded="false" />
                 <element signature="e#7692#8021#0" expanded="false" />
                 <element signature="e#8051#8374#0" expanded="false" />
                 <element signature="e#8408#8737#0" expanded="false" />
                 <element signature="e#8768#9094#0" expanded="false" />
-                <element signature="e#9161#9479#0" expanded="false" />
                 <element signature="e#9502#9813#0" expanded="false" />
                 <element signature="e#9833#10143#0" expanded="false" />
                 <element signature="e#10433#10733#0" expanded="false" />
@@ -67,48 +65,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="characters.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="characters.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/characters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding>
                 <element signature="e#143#156#0" expanded="true" />
+                <element signature="e#1604#3435#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="career_sequence.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="career_sequence.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/career_sequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="255" column="0" lean-forward="true" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+            <state relative-caret-position="-782">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="e#52#65#0" expanded="true" />
                 <element signature="e#568#1244#0" expanded="false" />
                 <element signature="e#1292#1936#0" expanded="false" />
                 <element signature="e#1991#2602#0" expanded="false" />
-                <element signature="e#4328#6449#0" expanded="false" />
-                <element signature="e#6516#7526#0" expanded="false" />
-                <element signature="e#7593#7747#0" expanded="false" />
-                <element signature="e#7795#7944#0" expanded="false" />
-                <element signature="e#8206#8394#0" expanded="false" />
-                <element signature="e#9749#10698#0" expanded="false" />
-                <element signature="e#10747#10912#0" expanded="false" />
-                <element signature="e#11013#12179#0" expanded="false" />
-                <element signature="e#12209#13095#0" expanded="false" />
+                <element signature="e#2657#3257#0" expanded="false" />
+                <element signature="e#3284#3679#0" expanded="false" />
+                <element signature="e#3719#3858#0" expanded="false" />
+                <element signature="e#3907#4116#0" expanded="false" />
+                <element signature="e#4143#4266#0" expanded="false" />
+                <element signature="e#8099#8199#0" expanded="false" />
+                <element signature="e#8332#8520#0" expanded="false" />
+                <element signature="e#8595#9727#0" expanded="false" />
+                <element signature="e#10873#11038#0" expanded="false" />
+                <element signature="e#11139#12358#0" expanded="false" />
+                <element signature="e#12388#14155#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="character_data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Scouts/character_data.py">
+      <file leaf-file-name="aging_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aging_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-              <folding />
+            <state relative-caret-position="102">
+              <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,6 +147,9 @@
       <find>print_muster_benefits</find>
       <find>update_upp</find>
       <find>rogue_enlistment</find>
+      <find>aging</find>
+      <find>career</find>
+      <find>sorted_skills</find>
     </findStrings>
     <replaceStrings>
       <replace>,</replace>
@@ -156,7 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/nobles.py" />
         <option value="$PROJECT_DIR$/merchants.py" />
         <option value="$PROJECT_DIR$/rogue.py" />
         <option value="$PROJECT_DIR$/barbarian.py" />
@@ -203,10 +208,11 @@
         <option value="$PROJECT_DIR$/scout.py" />
         <option value="$PROJECT_DIR$/career_data.py" />
         <option value="$PROJECT_DIR$/README.txt" />
-        <option value="$PROJECT_DIR$/career_sequence.py" />
-        <option value="$PROJECT_DIR$/characters.py" />
         <option value="$PROJECT_DIR$/character_data.py" />
         <option value="$PROJECT_DIR$/../Scouts/character_data.py" />
+        <option value="$PROJECT_DIR$/aging_test.py" />
+        <option value="$PROJECT_DIR$/characters.py" />
+        <option value="$PROJECT_DIR$/career_sequence.py" />
       </list>
     </option>
   </component>
@@ -230,8 +236,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -246,6 +250,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,42 +277,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.characters">
-    <configuration default="false" name="pig_latin" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../CodeWars" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CodeWars" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../CodeWars/pig_latin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="relatively_prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../CodeWars" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CodeWars" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../CodeWars/relatively_prime.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="squared_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -356,6 +326,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="classic_characters" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/characters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="aging_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="classic_characters" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aging_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="career_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="classic_characters" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/career_sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -458,19 +464,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.pig_latin" />
-      <item index="1" class="java.lang.String" itemvalue="Python.relatively_prime" />
-      <item index="2" class="java.lang.String" itemvalue="Python.squared_strings" />
-      <item index="3" class="java.lang.String" itemvalue="Python.fohack" />
-      <item index="4" class="java.lang.String" itemvalue="Python.characters" />
+      <item index="0" class="java.lang.String" itemvalue="Python.squared_strings" />
+      <item index="1" class="java.lang.String" itemvalue="Python.fohack" />
+      <item index="2" class="java.lang.String" itemvalue="Python.characters" />
+      <item index="3" class="java.lang.String" itemvalue="Python.aging_test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.career_sequence" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.characters" />
-        <item index="1" class="java.lang.String" itemvalue="Python.fohack" />
-        <item index="2" class="java.lang.String" itemvalue="Python.squared_strings" />
-        <item index="3" class="java.lang.String" itemvalue="Python.relatively_prime" />
-        <item index="4" class="java.lang.String" itemvalue="Python.pig_latin" />
+        <item index="1" class="java.lang.String" itemvalue="Python.career_sequence" />
+        <item index="2" class="java.lang.String" itemvalue="Python.aging_test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.fohack" />
+        <item index="4" class="java.lang.String" itemvalue="Python.squared_strings" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -519,15 +525,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="1" width="1360" height="726" extended-state="0" />
+    <frame x="0" y="1" width="1360" height="726" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.77597404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29058442" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29058442" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21221374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39930555" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -591,7 +597,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../systems_and_worlds/book_6_systems/system_generator.py" />
     <entry file="file://$PROJECT_DIR$/../systems_and_worlds/book_6_systems/Orbit.py" />
     <entry file="file://$PROJECT_DIR$/../../CodeWars/isograms.py.txt" />
     <entry file="file://$PROJECT_DIR$/../../CodeWars/myParseInt.py" />
@@ -645,17 +650,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Scouts/character_data.py">
+    <entry file="file://$PROJECT_DIR$/../Scouts/character_data.py" />
+    <entry file="file://$PROJECT_DIR$/aging_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="102">
+          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/career_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
+        <state relative-caret-position="1786">
           <caret line="199" column="6" lean-forward="false" selection-start-line="199" selection-start-column="6" selection-end-line="199" selection-end-column="6" />
           <folding>
             <element signature="e#2899#3231#0" expanded="false" />
@@ -670,12 +678,10 @@
             <element signature="e#6268#6575#0" expanded="false" />
             <element signature="e#6605#6938#0" expanded="false" />
             <element signature="e#6972#7307#0" expanded="false" />
-            <element signature="e#7342#7662#0" expanded="false" />
             <element signature="e#7692#8021#0" expanded="false" />
             <element signature="e#8051#8374#0" expanded="false" />
             <element signature="e#8408#8737#0" expanded="false" />
             <element signature="e#8768#9094#0" expanded="false" />
-            <element signature="e#9161#9479#0" expanded="false" />
             <element signature="e#9502#9813#0" expanded="false" />
             <element signature="e#9833#10143#0" expanded="false" />
             <element signature="e#10433#10733#0" expanded="false" />
@@ -695,34 +701,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding>
-            <element signature="e#143#156#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/career_sequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="255" column="0" lean-forward="true" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+        <state relative-caret-position="-782">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="e#52#65#0" expanded="true" />
             <element signature="e#568#1244#0" expanded="false" />
             <element signature="e#1292#1936#0" expanded="false" />
             <element signature="e#1991#2602#0" expanded="false" />
-            <element signature="e#4328#6449#0" expanded="false" />
-            <element signature="e#6516#7526#0" expanded="false" />
-            <element signature="e#7593#7747#0" expanded="false" />
-            <element signature="e#7795#7944#0" expanded="false" />
-            <element signature="e#8206#8394#0" expanded="false" />
-            <element signature="e#9749#10698#0" expanded="false" />
-            <element signature="e#10747#10912#0" expanded="false" />
-            <element signature="e#11013#12179#0" expanded="false" />
-            <element signature="e#12209#13095#0" expanded="false" />
+            <element signature="e#2657#3257#0" expanded="false" />
+            <element signature="e#3284#3679#0" expanded="false" />
+            <element signature="e#3719#3858#0" expanded="false" />
+            <element signature="e#3907#4116#0" expanded="false" />
+            <element signature="e#4143#4266#0" expanded="false" />
+            <element signature="e#8099#8199#0" expanded="false" />
+            <element signature="e#8332#8520#0" expanded="false" />
+            <element signature="e#8595#9727#0" expanded="false" />
+            <element signature="e#10873#11038#0" expanded="false" />
+            <element signature="e#11139#12358#0" expanded="false" />
+            <element signature="e#12388#14155#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#143#156#0" expanded="true" />
+            <element signature="e#1604#3435#0" expanded="false" />
           </folding>
         </state>
       </provider>

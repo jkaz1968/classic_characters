@@ -205,6 +205,9 @@ def career_steps(name, upp, age, terms, career, rank):
 
 def get_skillz(career, cm, pm, skills_learned, terms, upp):
     skills_available = 1
+    if career[0] == "Scouts" and terms > 1:
+        skills_available += 1
+
     if terms == 1:
         skills_available += 1
     if cm:
@@ -238,6 +241,7 @@ def get_rank_skills(starting_skills, skills_learned, rank):
         return
     for key, value in starting_skills.items():
         if key == rank:
+            print("You learned {}.".format(value))
             skills_learned.append(value)
 
 
@@ -333,6 +337,7 @@ def print_character(name, terms, age, rank, upp, sorted_skills, sorted_muster, c
     career_name = career[0]
     if career[0][-1] == 's':
         career_name = career[0][:-1]
+    name = input("What is your name, Traveller? : ")
     character_sheet = "\n+-------------------------------------------------+\n"
     character_sheet += "{}, {} {}\n".format(name, career_name, career_data.career_info[career_data.careers.index(career[0])][0][rank])
     character_sheet += "{}  Age {} {} term(s) ".format(convert_upp(upp), age, terms)
@@ -365,26 +370,46 @@ def aging(terms, upp):
     print("Checking for aging effects.")
     if 4 <= terms <= 7:
         if roll_two_dice() < 8:
-            upp[0] -= 1
+            upp[0] = upp[0]-1
+            print("-1 Strength: {}".format(upp[0]))
+        else: print("No Strength loss")
         if roll_two_dice() < 7:
-            upp[1] -= 1
+            upp[1] = upp[1] -1
+            print("-1 Dexterity: {}".format(upp[1]))
+        else: print("No Dexterity Loss")
         if roll_two_dice() < 8:
-            upp[2] -= 1
+            upp[2] =upp[2]-1
+            print("-1 Endurance: {}".format(upp[2]))
+        else: print("No Endurance loss")
     if 7 < terms <= 11:
         if roll_two_dice() < 9:
             upp[0] -= 1
+            print("-1 Strength: {}".format(upp[0]))
+        else: print("No Strength loss")
         if roll_two_dice() < 8:
             upp[1] -= 1
+            print("-1 Dexterity: {}".format(upp[1]))
+        else: print("No Dexterity Loss")
         if roll_two_dice() < 9:
             upp[2] -= 1
+            print("-1 Endurance: {}".format(upp[2]))
+        else: print("No Endurance loss")
     if terms >= 12:
         if roll_two_dice() < 9:
             upp[0] -= 2
+        else: print("No Strength loss")
         if roll_two_dice() < 9:
             upp[1] -= 2
+        else: print("No Dexterity Loss")
         if roll_two_dice() < 9:
             upp[2] -= 2
+        else: print("No Dexterity Loss")
         if roll_two_dice() < 9:
             upp[3] -= 1
-    print("Your updated UPP:" + print_upp(upp))
+        else: print("No Intelligence loss")
+
+    print("Your starting UPP:", upp)
+    print("Your updated UPP: \nUPP: Str-{} Dex-{} End-{} Int-{} Edu-{} Soc-{}".
+          format(upp[0], upp[1], upp[2], upp[3], upp[4], upp[5]))
+
     return upp
