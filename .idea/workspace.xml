@@ -80,8 +80,8 @@
       <file leaf-file-name="career_sequence.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/career_sequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="353" column="39" selection-start-line="353" selection-start-column="39" selection-end-line="353" selection-end-column="39" />
+            <state relative-caret-position="345">
+              <caret line="358" lean-forward="true" selection-start-line="358" selection-end-line="358" />
               <folding>
                 <element signature="e#52#65#0" expanded="true" />
                 <element signature="e#568#1244#0" />
@@ -93,7 +93,6 @@
                 <element signature="e#4143#4266#0" />
                 <element signature="e#8099#8199#0" />
                 <element signature="e#8332#8520#0" />
-                <element signature="e#8595#9727#0" />
                 <element signature="e#10873#11038#0" />
                 <element signature="e#12388#14155#0" />
               </folding>
@@ -561,7 +560,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/career_sequence.py</url>
-          <line>25</line>
+          <line>26</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -685,8 +684,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/career_sequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="353" column="39" selection-start-line="353" selection-start-column="39" selection-end-line="353" selection-end-column="39" />
+        <state relative-caret-position="345">
+          <caret line="358" lean-forward="true" selection-start-line="358" selection-end-line="358" />
           <folding>
             <element signature="e#52#65#0" expanded="true" />
             <element signature="e#568#1244#0" />
@@ -698,7 +697,6 @@
             <element signature="e#4143#4266#0" />
             <element signature="e#8099#8199#0" />
             <element signature="e#8332#8520#0" />
-            <element signature="e#8595#9727#0" />
             <element signature="e#10873#11038#0" />
             <element signature="e#12388#14155#0" />
           </folding>
