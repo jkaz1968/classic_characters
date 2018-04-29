@@ -80,8 +80,8 @@
       <file leaf-file-name="career_sequence.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/career_sequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="363" lean-forward="true" selection-start-line="363" selection-end-line="363" />
+            <state relative-caret-position="464">
+              <caret line="416" lean-forward="true" selection-start-line="416" selection-end-line="416" />
               <folding>
                 <element signature="e#52#65#0" expanded="true" />
                 <element signature="e#568#1244#0" />
@@ -498,14 +498,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="1" width="1360" height="726" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.29058442" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5332253" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7358185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.21221374" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3263889" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -690,8 +689,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/career_sequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="363" lean-forward="true" selection-start-line="363" selection-end-line="363" />
+        <state relative-caret-position="464">
+          <caret line="416" lean-forward="true" selection-start-line="416" selection-end-line="416" />
           <folding>
             <element signature="e#52#65#0" expanded="true" />
             <element signature="e#568#1244#0" />
