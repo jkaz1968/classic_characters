@@ -1,7 +1,0 @@
-
-+-------------------------------------------------+
-Herman Munster, Army Captain
-977A98  Age 26 2 term(s) Cr10000
-Skills: Rifle-1  SMG-1  Medical-2  Brawling-1  Blade Cbt-1  Tactics-1  
-Benefits: Mid Psg(1)  High Psg(1)  
-+-------------------------------------------------+

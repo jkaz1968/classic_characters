@@ -80,8 +80,8 @@
       <file leaf-file-name="career_sequence.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/career_sequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="358" lean-forward="true" selection-start-line="358" selection-end-line="358" />
+            <state relative-caret-position="424">
+              <caret line="363" lean-forward="true" selection-start-line="363" selection-end-line="363" />
               <folding>
                 <element signature="e#52#65#0" expanded="true" />
                 <element signature="e#568#1244#0" />
@@ -500,12 +500,12 @@
     <frame x="0" y="1" width="1360" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.29058442" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7747164" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5332253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.21221374" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3263889" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -568,7 +568,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../systems_and_worlds/book_6_systems/Orbit.py" />
     <entry file="file://$PROJECT_DIR$/../../CodeWars/isograms.py.txt" />
     <entry file="file://$PROJECT_DIR$/../../CodeWars/myParseInt.py" />
     <entry file="file://$PROJECT_DIR$/../../CodeWars/openOrSenior.py" />
@@ -682,10 +681,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/pathlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="389" selection-start-line="389" selection-end-line="389" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/career_sequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="358" lean-forward="true" selection-start-line="358" selection-end-line="358" />
+        <state relative-caret-position="424">
+          <caret line="363" lean-forward="true" selection-start-line="363" selection-end-line="363" />
           <folding>
             <element signature="e#52#65#0" expanded="true" />
             <element signature="e#568#1244#0" />

@@ -1,7 +1,0 @@
-
-+-------------------------------------------------+
-Shepard Shepard, Barbarian Warrior
-A67476  Age 30 3 term(s) Cr2000
-Skills: Sword-1  Mechanical-1  Recon-1  Bow Cbt-1  
-Benefits: High Psg(1)  Blade(1)  
-+-------------------------------------------------+

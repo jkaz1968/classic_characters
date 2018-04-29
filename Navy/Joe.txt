@@ -1,7 +1,7 @@
 
 +-------------------------------------------------+
-Sir Robin, Scientist 
-399DB7  Age 22 1 term(s) Cr20000
-Skills: Computer-1  Carousing-1  
+Joe, Navy 
+A6B89A  Age 20 0.5 term(s) Cr10000
+Skills: -1  
 Benefits: 
 +-------------------------------------------------+

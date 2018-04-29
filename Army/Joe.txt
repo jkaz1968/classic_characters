@@ -1,7 +1,7 @@
 
 +-------------------------------------------------+
-George Willis, Army 
-B9B5C5  Age 24 1.5 term(s) Cr2000
-Skills: Rifle-1  Vacc Suit-1  Brawling-1  
+Joe, Army Captain
+9B699A  Age 22 1 term(s) Cr0
+Skills: Rifle-1  SMG-1  Gun Cbt-1  Vehicle-1  Tactics-1  
 Benefits: Gun(1)  
 +-------------------------------------------------+

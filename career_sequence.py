@@ -352,11 +352,9 @@ def print_character(name, terms, age, rank, upp, sorted_skills, sorted_muster, c
     character_sheet += "\n+-------------------------------------------------+\n"
     print(character_sheet)
     if input("Write character to file? ")[0].upper() == 'Y':
-        # dir = os.path.dirname(__file__)
-        path = "Characters" + "/" + career[0]
+        path = career[0]
         directory = os.path.dirname(__file__)
         pathlib.Path(path).mkdir(exist_ok=True)
-
         name = name.replace(" ", "_")
         filename = os.path.join(directory, path, name)
         f = open(filename + ".txt", "w")
