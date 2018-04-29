@@ -18,3 +18,7 @@ to a text file. These saves are kept in the same directory as the program files,
 
 You may copy, use, hack, modify, or kludge this software to your heart's content but please don't
 sell it. You got it free, so give it to someone else who plays and loves Traveller.
+
+*** One important note: The program allows you to save characters that you like (or don't like) to a 
+text file. Before you do this, you'll need to create a "Characters" directory in the installation
+location or it will fail. Thanks!
