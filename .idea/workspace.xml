@@ -17,7 +17,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="classic_characters" />
   </component>
@@ -26,79 +25,77 @@
       <file leaf-file-name="career_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/career_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1786">
-              <caret line="199" column="6" lean-forward="false" selection-start-line="199" selection-start-column="6" selection-end-line="199" selection-end-column="6" />
+            <state relative-caret-position="1938">
+              <caret line="199" column="6" selection-start-line="199" selection-start-column="6" selection-end-line="199" selection-end-column="6" />
               <folding>
-                <element signature="e#2899#3231#0" expanded="false" />
-                <element signature="e#3262#3593#0" expanded="false" />
-                <element signature="e#3621#3952#0" expanded="false" />
-                <element signature="e#3981#4320#0" expanded="false" />
-                <element signature="e#4352#4692#0" expanded="false" />
-                <element signature="e#4749#5098#0" expanded="false" />
-                <element signature="e#5128#5496#0" expanded="false" />
-                <element signature="e#5526#5873#0" expanded="false" />
-                <element signature="e#5905#6238#0" expanded="false" />
-                <element signature="e#6268#6575#0" expanded="false" />
-                <element signature="e#6605#6938#0" expanded="false" />
-                <element signature="e#6972#7307#0" expanded="false" />
-                <element signature="e#7692#8021#0" expanded="false" />
-                <element signature="e#8051#8374#0" expanded="false" />
-                <element signature="e#8408#8737#0" expanded="false" />
-                <element signature="e#8768#9094#0" expanded="false" />
-                <element signature="e#9502#9813#0" expanded="false" />
-                <element signature="e#9833#10143#0" expanded="false" />
-                <element signature="e#10433#10733#0" expanded="false" />
-                <element signature="e#10786#11115#0" expanded="false" />
-                <element signature="e#11138#11399#0" expanded="false" />
-                <element signature="e#11422#11728#0" expanded="false" />
-                <element signature="e#11753#12098#0" expanded="false" />
-                <element signature="e#12121#12386#0" expanded="false" />
-                <element signature="e#12409#12731#0" expanded="false" />
-                <element signature="e#12758#13044#0" expanded="false" />
-                <element signature="e#13072#13371#0" expanded="false" />
-                <element signature="e#13394#13663#0" expanded="false" />
-                <element signature="e#13686#13995#0" expanded="false" />
-                <element signature="e#14022#14250#0" expanded="false" />
-                <element signature="e#14274#14550#0" expanded="false" />
+                <element signature="e#2899#3231#0" />
+                <element signature="e#3262#3593#0" />
+                <element signature="e#3621#3952#0" />
+                <element signature="e#3981#4320#0" />
+                <element signature="e#4352#4692#0" />
+                <element signature="e#4749#5098#0" />
+                <element signature="e#5128#5496#0" />
+                <element signature="e#5526#5873#0" />
+                <element signature="e#5905#6238#0" />
+                <element signature="e#6268#6575#0" />
+                <element signature="e#6605#6938#0" />
+                <element signature="e#6972#7307#0" />
+                <element signature="e#7692#8021#0" />
+                <element signature="e#8051#8374#0" />
+                <element signature="e#8408#8737#0" />
+                <element signature="e#8768#9094#0" />
+                <element signature="e#9502#9813#0" />
+                <element signature="e#9833#10143#0" />
+                <element signature="e#10433#10733#0" />
+                <element signature="e#10786#11115#0" />
+                <element signature="e#11138#11399#0" />
+                <element signature="e#11422#11728#0" />
+                <element signature="e#11753#12098#0" />
+                <element signature="e#12121#12386#0" />
+                <element signature="e#12409#12731#0" />
+                <element signature="e#12758#13044#0" />
+                <element signature="e#13072#13371#0" />
+                <element signature="e#13394#13663#0" />
+                <element signature="e#13686#13995#0" />
+                <element signature="e#14022#14250#0" />
+                <element signature="e#14274#14550#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="characters.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="characters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/characters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="49" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="884">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="e#143#156#0" expanded="true" />
-                <element signature="e#1604#3435#0" expanded="false" />
+                <element signature="e#1604#3435#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="career_sequence.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="career_sequence.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/career_sequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-782">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="277">
+              <caret line="353" column="39" selection-start-line="353" selection-start-column="39" selection-end-line="353" selection-end-column="39" />
               <folding>
                 <element signature="e#52#65#0" expanded="true" />
-                <element signature="e#568#1244#0" expanded="false" />
-                <element signature="e#1292#1936#0" expanded="false" />
-                <element signature="e#1991#2602#0" expanded="false" />
-                <element signature="e#2657#3257#0" expanded="false" />
-                <element signature="e#3284#3679#0" expanded="false" />
-                <element signature="e#3719#3858#0" expanded="false" />
-                <element signature="e#3907#4116#0" expanded="false" />
-                <element signature="e#4143#4266#0" expanded="false" />
-                <element signature="e#8099#8199#0" expanded="false" />
-                <element signature="e#8332#8520#0" expanded="false" />
-                <element signature="e#8595#9727#0" expanded="false" />
-                <element signature="e#10873#11038#0" expanded="false" />
-                <element signature="e#11139#12358#0" expanded="false" />
-                <element signature="e#12388#14155#0" expanded="false" />
+                <element signature="e#568#1244#0" />
+                <element signature="e#1991#2602#0" />
+                <element signature="e#2657#3257#0" />
+                <element signature="e#3284#3679#0" />
+                <element signature="e#3719#3858#0" />
+                <element signature="e#3907#4116#0" />
+                <element signature="e#4143#4266#0" />
+                <element signature="e#8099#8199#0" />
+                <element signature="e#8332#8520#0" />
+                <element signature="e#8595#9727#0" />
+                <element signature="e#10873#11038#0" />
+                <element signature="e#12388#14155#0" />
               </folding>
             </state>
           </provider>
@@ -107,8 +104,8 @@
       <file leaf-file-name="aging_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aging_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+            <state relative-caret-position="68">
+              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -120,8 +117,7 @@
         <entry file="file://$PROJECT_DIR$/README.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="83" lean-forward="false" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
-              <folding />
+              <caret line="19" column="83" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -222,40 +218,26 @@
     <option name="height" value="726" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classic_characters" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classic_characters" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="classic_characters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="classic_characters" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Classic-Traveller/systems_and_worlds" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -277,25 +259,62 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.characters">
-    <configuration default="false" name="squared_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aging_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="classic_characters" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../CodeWars" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CodeWars" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../CodeWars/squared_strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aging_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration default="false" name="fohack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="career_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="classic_characters" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/career_sequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="classic_characters" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/characters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="fohack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="classic_characters" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -306,66 +325,29 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="classic_characters" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Fallout/fohack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration default="false" name="characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="squared_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../CodeWars" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="classic_characters" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/characters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../CodeWars/squared_strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="aging_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="classic_characters" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aging_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="career_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="classic_characters" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/career_sequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -397,6 +379,25 @@
       <module name="classic_characters" />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="classic_characters" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -417,90 +418,62 @@
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="classic_characters" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="classic_characters" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="classic_characters" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="classic_characters" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
+      <module name="classic_characters" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="classic_characters" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.squared_strings" />
-      <item index="1" class="java.lang.String" itemvalue="Python.fohack" />
-      <item index="2" class="java.lang.String" itemvalue="Python.characters" />
-      <item index="3" class="java.lang.String" itemvalue="Python.aging_test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.career_sequence" />
+    <list>
+      <item itemvalue="Python.squared_strings" />
+      <item itemvalue="Python.fohack" />
+      <item itemvalue="Python.characters" />
+      <item itemvalue="Python.aging_test" />
+      <item itemvalue="Python.career_sequence" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.characters" />
-        <item index="1" class="java.lang.String" itemvalue="Python.career_sequence" />
-        <item index="2" class="java.lang.String" itemvalue="Python.aging_test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.fohack" />
-        <item index="4" class="java.lang.String" itemvalue="Python.squared_strings" />
+      <list>
+        <item itemvalue="Python.characters" />
+        <item itemvalue="Python.career_sequence" />
+        <item itemvalue="Python.aging_test" />
+        <item itemvalue="Python.fohack" />
+        <item itemvalue="Python.squared_strings" />
       </list>
     </recent_temporary>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="classic_characters" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -525,46 +498,46 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="1" width="1360" height="726" extended-state="1" />
+    <frame x="0" y="1" width="1360" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.77597404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29058442" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21221374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3263889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39930555" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2782324" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.29058442" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7747164" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.21221374" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3263889" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Inspection" order="5" visible="true" weight="0.2782324" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2782324" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.552" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1366322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Inspection" order="5" visible="true" weight="0.2782324" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1366322" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.552" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="9" visible="true" weight="0.36" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -594,7 +567,6 @@
       </breakpoints>
       <option name="time" value="3" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../systems_and_worlds/book_6_systems/Orbit.py" />
@@ -645,16 +617,15 @@
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="83" lean-forward="false" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
-          <folding />
+          <caret line="19" column="83" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Scouts/character_data.py" />
     <entry file="file://$PROJECT_DIR$/aging_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+        <state relative-caret-position="68">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
@@ -663,75 +634,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/career_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1786">
-          <caret line="199" column="6" lean-forward="false" selection-start-line="199" selection-start-column="6" selection-end-line="199" selection-end-column="6" />
+        <state relative-caret-position="1938">
+          <caret line="199" column="6" selection-start-line="199" selection-start-column="6" selection-end-line="199" selection-end-column="6" />
           <folding>
-            <element signature="e#2899#3231#0" expanded="false" />
-            <element signature="e#3262#3593#0" expanded="false" />
-            <element signature="e#3621#3952#0" expanded="false" />
-            <element signature="e#3981#4320#0" expanded="false" />
-            <element signature="e#4352#4692#0" expanded="false" />
-            <element signature="e#4749#5098#0" expanded="false" />
-            <element signature="e#5128#5496#0" expanded="false" />
-            <element signature="e#5526#5873#0" expanded="false" />
-            <element signature="e#5905#6238#0" expanded="false" />
-            <element signature="e#6268#6575#0" expanded="false" />
-            <element signature="e#6605#6938#0" expanded="false" />
-            <element signature="e#6972#7307#0" expanded="false" />
-            <element signature="e#7692#8021#0" expanded="false" />
-            <element signature="e#8051#8374#0" expanded="false" />
-            <element signature="e#8408#8737#0" expanded="false" />
-            <element signature="e#8768#9094#0" expanded="false" />
-            <element signature="e#9502#9813#0" expanded="false" />
-            <element signature="e#9833#10143#0" expanded="false" />
-            <element signature="e#10433#10733#0" expanded="false" />
-            <element signature="e#10786#11115#0" expanded="false" />
-            <element signature="e#11138#11399#0" expanded="false" />
-            <element signature="e#11422#11728#0" expanded="false" />
-            <element signature="e#11753#12098#0" expanded="false" />
-            <element signature="e#12121#12386#0" expanded="false" />
-            <element signature="e#12409#12731#0" expanded="false" />
-            <element signature="e#12758#13044#0" expanded="false" />
-            <element signature="e#13072#13371#0" expanded="false" />
-            <element signature="e#13394#13663#0" expanded="false" />
-            <element signature="e#13686#13995#0" expanded="false" />
-            <element signature="e#14022#14250#0" expanded="false" />
-            <element signature="e#14274#14550#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/career_sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-782">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#52#65#0" expanded="true" />
-            <element signature="e#568#1244#0" expanded="false" />
-            <element signature="e#1292#1936#0" expanded="false" />
-            <element signature="e#1991#2602#0" expanded="false" />
-            <element signature="e#2657#3257#0" expanded="false" />
-            <element signature="e#3284#3679#0" expanded="false" />
-            <element signature="e#3719#3858#0" expanded="false" />
-            <element signature="e#3907#4116#0" expanded="false" />
-            <element signature="e#4143#4266#0" expanded="false" />
-            <element signature="e#8099#8199#0" expanded="false" />
-            <element signature="e#8332#8520#0" expanded="false" />
-            <element signature="e#8595#9727#0" expanded="false" />
-            <element signature="e#10873#11038#0" expanded="false" />
-            <element signature="e#11139#12358#0" expanded="false" />
-            <element signature="e#12388#14155#0" expanded="false" />
+            <element signature="e#2899#3231#0" />
+            <element signature="e#3262#3593#0" />
+            <element signature="e#3621#3952#0" />
+            <element signature="e#3981#4320#0" />
+            <element signature="e#4352#4692#0" />
+            <element signature="e#4749#5098#0" />
+            <element signature="e#5128#5496#0" />
+            <element signature="e#5526#5873#0" />
+            <element signature="e#5905#6238#0" />
+            <element signature="e#6268#6575#0" />
+            <element signature="e#6605#6938#0" />
+            <element signature="e#6972#7307#0" />
+            <element signature="e#7692#8021#0" />
+            <element signature="e#8051#8374#0" />
+            <element signature="e#8408#8737#0" />
+            <element signature="e#8768#9094#0" />
+            <element signature="e#9502#9813#0" />
+            <element signature="e#9833#10143#0" />
+            <element signature="e#10433#10733#0" />
+            <element signature="e#10786#11115#0" />
+            <element signature="e#11138#11399#0" />
+            <element signature="e#11422#11728#0" />
+            <element signature="e#11753#12098#0" />
+            <element signature="e#12121#12386#0" />
+            <element signature="e#12409#12731#0" />
+            <element signature="e#12758#13044#0" />
+            <element signature="e#13072#13371#0" />
+            <element signature="e#13394#13663#0" />
+            <element signature="e#13686#13995#0" />
+            <element signature="e#14022#14250#0" />
+            <element signature="e#14274#14550#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="884">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="e#143#156#0" expanded="true" />
-            <element signature="e#1604#3435#0" expanded="false" />
+            <element signature="e#1604#3435#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/career_sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="353" column="39" selection-start-line="353" selection-start-column="39" selection-end-line="353" selection-end-column="39" />
+          <folding>
+            <element signature="e#52#65#0" expanded="true" />
+            <element signature="e#568#1244#0" />
+            <element signature="e#1991#2602#0" />
+            <element signature="e#2657#3257#0" />
+            <element signature="e#3284#3679#0" />
+            <element signature="e#3719#3858#0" />
+            <element signature="e#3907#4116#0" />
+            <element signature="e#4143#4266#0" />
+            <element signature="e#8099#8199#0" />
+            <element signature="e#8332#8520#0" />
+            <element signature="e#8595#9727#0" />
+            <element signature="e#10873#11038#0" />
+            <element signature="e#12388#14155#0" />
           </folding>
         </state>
       </provider>

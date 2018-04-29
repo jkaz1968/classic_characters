@@ -353,7 +353,7 @@ def print_character(name, terms, age, rank, upp, sorted_skills, sorted_muster, c
     if input("Write character to file? ")[0].upper() == 'Y':
         dir = os.path.dirname(__file__)
 
-        path = "Characters"
+        path = "Characters" + "/" + career[0]
         name = name.replace(" ", "_")
         filename = os.path.join(dir, path, name)
         f = open(filename + ".txt", "w")
